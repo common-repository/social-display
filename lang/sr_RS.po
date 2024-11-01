@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Display 3.1\n"
+"POT-Creation-Date: 2014-05-27 10:29+0100\n"
+"PO-Revision-Date: 2014-10-27 08:59+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: Web Unity Design <inbox@webunitydesign.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: English\n"
+"X-Poedit-SearchPath-0: /var/www/wordpress/wp-content/plugins/social-display\n"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:36
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:10
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:7
+msgid "Social Display"
+msgstr "Social Display"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:43
+msgid "Facebook Icon Color"
+msgstr "Boja Facebook ikonice"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:49
+msgid "Twitter Icon Color"
+msgstr "Boja Twitter ikonice"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:55
+msgid "LinkedIn Icon Color"
+msgstr "Boja LinkedIn ikonice"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:61
+msgid "Google+ Icon Color"
+msgstr "Boja Google+ ikonice"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:67
+msgid "WordPress Icon Color"
+msgstr "Boja WordPress ikonice"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/customizer.php:73
+msgid "RSS Icon Color"
+msgstr "Boja RSS ikonice"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:11
+msgid "Displays given social links from the plugin options"
+msgstr "Prikazuje date društvene linkove iz opcija plugin-a"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:21
+msgid "Social Feeds"
+msgstr "Društvene mreže"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:79
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:80
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:81
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:82
+msgid "Google+"
+msgstr "Google+"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:83
+msgid "WordPress Profile"
+msgstr "WordPress Profil"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/social-output.php:84
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:38
+msgid "Baisc Setup"
+msgstr "Osnovno podešavanje"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:44
+msgid "Visibility Setup"
+msgstr "Podešavanje vidljivosti"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:50
+msgid "Further Customization"
+msgstr "Dalja prilagođavanja"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:56
+msgid "Facebook Link"
+msgstr "Facebook Link"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:63
+msgid "Twitter Link"
+msgstr "Twitter Link"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:70
+msgid "LinkedIn Link"
+msgstr "LinkedIn Link"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:77
+msgid "Google+ Link"
+msgstr "Google+ Link"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:84
+msgid "WordPress Link"
+msgstr "WordPress Link"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:91
+msgid "RSS Feed Link"
+msgstr "RSS Feed Link"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:98
+msgid "Show Facebook?"
+msgstr "Prikaži Facebook?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:105
+msgid "Show Twitter?"
+msgstr "Prikaži Twitter?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:112
+msgid "Show LinkedIn?"
+msgstr "Prikaži LinkedIn?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:119
+msgid "Show Google+?"
+msgstr "Prikaži Google+?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:126
+msgid "Show WordPrss Profile?"
+msgstr "Prikaži WordPress profil?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:133
+msgid "Show RSS Link?"
+msgstr "Prikaži RSS Link?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:140
+msgid "Use Logos?"
+msgstr "Koristi Logo?"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:147
+msgid "Use Social Media Colors? (Logos Only)"
+msgstr "Koristi boje društvenih medija? (Samo logo)"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:157
+msgid "<p>Configure your social media links.</p>"
+msgstr "<p>Konfigurišite linkove svojih društvenih medija.</p>"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:162
+msgid "<p>Choose what social media is displayed.</p>"
+msgstr "<p>Odaberite koji će društveni mediji biti prikazani.</p>"
+
+#: /var/www/wordpress/wp-content/plugins/social-display/includes/plugin-options.php:167
+msgid ""
+"<p>Personalise your social media. Some settings can be adjusted further in "
+"the <a href=\"customize.php\">Customizer</a> if activated.</p>"
+msgstr ""
+"<p>Personalizujte svoje društvene medije. Neke postavke mogu se dalje "
+"podešavati na <a href=\"customize.php\">Customizer</a> ako su aktivirane.</p>"

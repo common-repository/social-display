@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Display 3.1\n"
+"POT-Creation-Date: 2014-02-06 14:10+0100\n"
+"PO-Revision-Date: 2014-02-18 10:37+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: Web Unity Design <inbox@webunitydesign.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/dylans/social-display\n"
+
+#: /home/dylans/social-display/includes/plugin-options.php:7
+#: /home/dylans/social-display/includes/customizer.php:31
+#: /home/dylans/social-display/includes/social-output.php:10
+msgid "Social Display"
+msgstr "Social Display"
+
+#: /home/dylans/social-display/includes/plugin-options.php:38
+msgid "Baisc Setup"
+msgstr "Configuración Básica"
+
+#: /home/dylans/social-display/includes/plugin-options.php:44
+msgid "Visibility Setup"
+msgstr "Configuración de visibilidad"
+
+#: /home/dylans/social-display/includes/plugin-options.php:50
+msgid "Further Customization"
+msgstr "Más personalización"
+
+#: /home/dylans/social-display/includes/plugin-options.php:56
+msgid "Facebook Link"
+msgstr "Enlace Facebook"
+
+#: /home/dylans/social-display/includes/plugin-options.php:63
+msgid "Twitter Link"
+msgstr "Enlace Twitter"
+
+#: /home/dylans/social-display/includes/plugin-options.php:70
+msgid "LinkedIn Link"
+msgstr "Enlace LinkedIn"
+
+#: /home/dylans/social-display/includes/plugin-options.php:77
+msgid "WordPress Link"
+msgstr "Enlace WordPress"
+
+#: /home/dylans/social-display/includes/plugin-options.php:84
+msgid "RSS Feed Link"
+msgstr "Enlace RSS"
+
+#: /home/dylans/social-display/includes/plugin-options.php:91
+msgid "Show Facebook?"
+msgstr "¿Mostrar Facebook?"
+
+#: /home/dylans/social-display/includes/plugin-options.php:98
+msgid "Show Twitter?"
+msgstr "¿Mostrar Twitter?"
+
+#: /home/dylans/social-display/includes/plugin-options.php:105
+msgid "Show LinkedIn?"
+msgstr "¿Mostrar LinkedIn?"
+
+#: /home/dylans/social-display/includes/plugin-options.php:112
+msgid "Show WordPrss Profile?"
+msgstr "¿Mostrar Perfil Wordpress?"
+
+#: /home/dylans/social-display/includes/plugin-options.php:119
+msgid "Show RSS Link?"
+msgstr "¿Mostrar Enlace RSS?"
+
+#: /home/dylans/social-display/includes/plugin-options.php:126
+msgid "Use Logos?"
+msgstr "¿Usar Logos?"
+
+#: /home/dylans/social-display/includes/plugin-options.php:133
+msgid "Use Social Media Colors? (Logos Only)"
+msgstr "¿Usar Colores de Medios Sociales? (Sólo Logos)"
+
+#: /home/dylans/social-display/includes/plugin-options.php:144
+msgid "<p>Configure your social media links.</p>"
+msgstr "<p> Configurar los enlaces de medios sociales. </p>"
+
+#: /home/dylans/social-display/includes/plugin-options.php:149
+msgid "<p>Choose what social media is displayed.</p>"
+msgstr "<p>Elija lo que se muestra en medios sociales. </p>"
+
+#: /home/dylans/social-display/includes/plugin-options.php:154
+msgid ""
+"<p>Personalise your social media. Some settings can be adjusted further in "
+"the <a href=\"customize.php\">Customizer</a> if activated.</p>"
+msgstr ""
+"<p>Personalice su medio social. Algunos ajustes se pueden ajustar aún más en "
+"el <a href=\"customize.php\"> Personalizador </a> si está activado. </p>"
+
+#: /home/dylans/social-display/includes/customizer.php:38
+msgid "Facebook Icon Color"
+msgstr "Color del Icono de Facebook"
+
+#: /home/dylans/social-display/includes/customizer.php:44
+msgid "Twitter Icon Color"
+msgstr "Color del Icono de Twitter"
+
+#: /home/dylans/social-display/includes/customizer.php:50
+msgid "LinkedIn Icon Color"
+msgstr "Color del Icono de Linkedln"
+
+#: /home/dylans/social-display/includes/customizer.php:56
+msgid "WordPress Icon Color"
+msgstr "Color del Icono de Wordpress"
+
+#: /home/dylans/social-display/includes/customizer.php:62
+msgid "RSS Icon Color"
+msgstr "Color del Icono de RSS"
+
+#: /home/dylans/social-display/includes/social-output.php:11
+msgid "Displays given social links from the plugin options"
+msgstr "Muestra enlaces sociales de las opciones del plugin"
+
+#: /home/dylans/social-display/includes/social-output.php:21
+msgid "Social Feeds"
+msgstr "Transmisiones Sociales"
+
+#: /home/dylans/social-display/includes/social-output.php:77
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /home/dylans/social-display/includes/social-output.php:78
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /home/dylans/social-display/includes/social-output.php:79
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: /home/dylans/social-display/includes/social-output.php:80
+msgid "WordPress Profile"
+msgstr "Perfil WordPress"
+
+#: /home/dylans/social-display/includes/social-output.php:81
+msgid "RSS Feed"
+msgstr "Alimentación RSS"
